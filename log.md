@@ -8,6 +8,16 @@ Day 0: April 5, 2022
 
 **Link to work:** n/a
 
+******************************
+
+Day 1: April 6, 2022
+
+**Today's Progress**: Scrimba - finished Javascript for free" course and started Javascript Bootcamp - intermediate tutorials.
+
+**Thoughts:** Starting off as a review - feeling pretty confident.
+
+**Link to work:** n/a
+
 
 
 
