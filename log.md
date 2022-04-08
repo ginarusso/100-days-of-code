@@ -17,6 +17,15 @@ Day 1: April 6, 2022
 **Thoughts:** Starting off as a review - feeling pretty confident.
 
 **Link to work:** n/a
+******************************
+
+Day 1: April 7, 2022
+
+**Today's Progress**: Scrimba - continued Javascript Bootcamp course. Learning more...
+
+**Thoughts:** Easy to understand. 
+
+**Link to work:** n/a
 
 
 
