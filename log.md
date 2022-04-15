@@ -19,7 +19,7 @@ Day 1: April 6, 2022
 **Link to work:** n/a
 ******************************
 
-Day 1: April 7, 2022
+Day 2: April 7, 2022
 
 **Today's Progress**: Scrimba - continued Javascript Bootcamp course. 
 - Don't use \n or \r - instead use backticks with template literal strings.
@@ -39,7 +39,7 @@ Day 1: April 7, 2022
 **Link to work:** n/a
 ******************************
 
-Day 1: April 8, 2022
+Day 3: April 8, 2022
 
 **Today's Progress**: Scrimba - continued Javascript Bootcamp course.
 conversion types:
@@ -63,7 +63,7 @@ Strict operator === doesn't allow type conversions
 **Link to work:** n/a
 ******************************
 
-Day 1: April 9, 2022
+Day 4: April 9, 2022
 
 **Today's Progress**: Scrimba - continued Javascript Bootcamp course.
 Ternary operations (instead of if-else)
@@ -114,7 +114,7 @@ Objects:
 **Link to work:** n/a
 ******************************
 
-Day 1: April 10, 2022
+Day 5: April 10, 2022
 
 **Today's Progress**: Scrimba - continued Javascript Bootcamp course.
 
@@ -144,7 +144,76 @@ function displayUserBio({details:{title}}) {
 
 **Link to work:** n/a
 
+******************************
 
+Day 6: April 11, 2022
+
+**Today's Progress**: Scrimba - continued Javascript Bootcamp course.
+Object.assign() = lets you update an object with properties fro another object
+- to avoid updating or mutating original object, pass an empty object as the first parameter
+
+Object spread operator
+- better than Object.assign()
+- used to individually spread in an object's properties into another one
+- used to establish common default properties of any object through merging 2 or more objects
+- non-destructively update or add properties (doesn't mutate original objects)
+Limits with objects:
+- keys have to be strings or symbols
+- if key is not string, it is transformed into a string 
+- can't be easily iterated over
+- can't easily get length of objects
+- order isn't preserved, instead use arrays
+Instead....use new Map()
+- new Map ([['key', 'value']]);
+- .set mutates original Map object
+- .forEach iterates through data in a Map
+- normal javascript object - there is no length property
+-   use object.keys to convert to an array of key values
+this keyword
+- a feature of function which allows us to get access to an object's data
+- only functions declared with a function keyword have a dynamic this
+- the value of this is determined how the function is called
+- arrows don't have a this value when this is used within an arrow function; it grabs the this from the scope above where the arrow function was declared
+
+use arrays because they preserve order and array methods allow easy manipulation of a collection of data
+- arrow functions should only be used for this when they are inside another function, otherwise you will get undefined when console.log(this)
+
+use includes() - to check for element existence with simple arrays of primitive values (strings, numbers, booleans)
+use some() and every() for complex arrays that contain an object
+
+**Thoughts:** This is so overwhelming! 
+
+**Link to work:** n/a
+******************************
+
+Day 6: April 12, 2022
+
+**Today's Progress**: Scrimba - continued Javascript Bootcamp course.
+Map()
+- transforms the entire array and creates a brand new array
+forEach()
+- allows you to perform operations to every element of an array
+- does NOT create a new array; just allows you to iterate over the array and perform an operation in a callback
+- usually used when you already have an array in the format that you want using methods - such as a Map 
+filter() 
+- creates a new array and doesn't change original array
+- if nothing is found, it returns an empty array
+- is the best way to get a selection of any array and search arrays based on multiple conditions
+find()
+- works like filter but it finds the element you are looking for or returns undefined
+- if you know in advance that you need just one array element, use the find method
+reduce()
+- iterates all elements in an array
+- pass a callback function, but needs 2 arguments
+concat() - updates the array
+.push is a mutating method
+
+arrays are reference types
+
+
+**Thoughts:** So much information! Just need more practice to remember it all. 
+
+**Link to work:** n/a
 
 
 
