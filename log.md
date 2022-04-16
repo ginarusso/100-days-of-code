@@ -214,6 +214,8 @@ arrays are reference types
 **Thoughts:** So much information! Just need more practice to remember it all. 
 
 **Link to work:** n/a
+******************************
+
 Day 8: April 13, 2022
 
 Today's Progress: Scrimba - continued Javascript Bootcamp course.
