@@ -186,7 +186,7 @@ use some() and every() for complex arrays that contain an object
 **Link to work:** n/a
 ******************************
 
-Day 6: April 12, 2022
+Day 7: April 12, 2022
 
 **Today's Progress**: Scrimba - continued Javascript Bootcamp course.
 Map()
@@ -214,6 +214,35 @@ arrays are reference types
 **Thoughts:** So much information! Just need more practice to remember it all. 
 
 **Link to work:** n/a
+Day 8: April 13, 2022
+
+Today's Progress: Scrimba - continued Javascript Bootcamp course.
+spread operator - create and order new arrays
+- sorks with any iterable
+slice() is immutable
+replacing an item: .findIndex()
+array destructuring
+
+turning objects into arrays
+- 1) Object.keys() - takes keys and objects and turns into an array
+- 2) Object.values() - takes values
+- 3) Object.entries() - takes keys and values; for static data structure
+- can use= keys names to check if a property exists
+
+Set Object type
+- new Set()
+-   each value can only occur once (useful when filtering items that occur multiple times in an array)
+-   arrays are object or reference types and are unique
+-   Set is like an array because it doesn't include keys
+-   you can't reference its values by referencing a key or index
+-   to get the value of a set you an use a for of loop to reference key or index values
+spread operator
+- works with any iterable
+
+
+Thoughts: How will you be able to figure out which method to use when there are so many????
+
+Link to work: n/a
 
 
 
