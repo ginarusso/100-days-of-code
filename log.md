@@ -245,6 +245,20 @@ spread operator
 Thoughts: How will you be able to figure out which method to use when there are so many????
 
 Link to work: n/a
+******************************
+
+Day 9: April 14, 2022
+
+Today's Progress: Scrimba - needed a break from the bootcamp and worked on the Valentine's Challenges: https://scrimba.com/learn/codeweeks
+Gift Selector
+Valentine's Greeting
+Grammar Corrector
+Filter Duplicate Emojis
+Heart Customizer API
+
+Thoughts: These exercises were really helpful. They helped me practice what I've been learning and included some new coding concepts. Next week they are having a week-long Earth Day Challenge. 
+
+Link to work: n/a
 
 
 
